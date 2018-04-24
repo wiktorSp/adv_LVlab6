@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="14008000">
+<Project Type="Project" LVVersion="15008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
 	<Item Name="My Computer" Type="My Computer">
@@ -26,35 +26,35 @@
 		</Item>
 		<Item Name="Support" Type="Folder">
 			<Item Name="API" Type="Folder">
-				<Item Name="Start Process.vi" Type="VI" URL="../Support/API/Start Process.vi"/>
-				<Item Name="Stop Process.vi" Type="VI" URL="../Support/API/Stop Process.vi"/>
-				<Item Name="Update Display.vi" Type="VI" URL="../Support/API/Update Display.vi"/>
-				<Item Name="Update Position.vi" Type="VI" URL="../Support/API/Update Position.vi"/>
-				<Item Name="Power Supply Change.vi" Type="VI" URL="../Support/API/Power Supply Change.vi"/>
-				<Item Name="Error.vi" Type="VI" URL="../Support/API/Error.vi"/>
-				<Item Name="Wait on PLC Exit.vi" Type="VI" URL="../Support/API/Wait on PLC Exit.vi"/>
-				<Item Name="Quit Application.vi" Type="VI" URL="../Support/API/Quit Application.vi"/>
+				<Item Name="Start Process.vi" Type="VI" URL="../support/API/Start Process.vi"/>
+				<Item Name="Stop Process.vi" Type="VI" URL="../support/API/Stop Process.vi"/>
+				<Item Name="Update Display.vi" Type="VI" URL="../support/API/Update Display.vi"/>
+				<Item Name="Update Position.vi" Type="VI" URL="../support/API/Update Position.vi"/>
+				<Item Name="Power Supply Change.vi" Type="VI" URL="../support/API/Power Supply Change.vi"/>
+				<Item Name="Error.vi" Type="VI" URL="../support/API/Error.vi"/>
+				<Item Name="Wait on PLC Exit.vi" Type="VI" URL="../support/API/Wait on PLC Exit.vi"/>
+				<Item Name="Quit Application.vi" Type="VI" URL="../support/API/Quit Application.vi"/>
 			</Item>
 			<Item Name="SubVIs" Type="Folder">
-				<Item Name="MHL Queue Ref Holder.vi" Type="VI" URL="../Support/MHL Queue Ref Holder.vi"/>
-				<Item Name="PL Open.vi" Type="VI" URL="../Support/PL Open.vi"/>
-				<Item Name="PL Close.vi" Type="VI" URL="../Support/PL Close.vi"/>
-				<Item Name="Status Display.vi" Type="VI" URL="../Support/Status Display.vi"/>
+				<Item Name="MHL Queue Ref Holder.vi" Type="VI" URL="../support/MHL Queue Ref Holder.vi"/>
+				<Item Name="PL Open.vi" Type="VI" URL="../support/PL Open.vi"/>
+				<Item Name="PL Close.vi" Type="VI" URL="../support/PL Close.vi"/>
+				<Item Name="Status Display.vi" Type="VI" URL="../support/Status Display.vi"/>
 				<Item Name="Get Path.vi" Type="VI" URL="../Support/Get Path.vi"/>
 				<Item Name="Open Dir.vi" Type="VI" URL="../Support/Open Dir.vi"/>
-				<Item Name="Enable Multiple Boolean Controls.vi" Type="VI" URL="../Support/Enable Multiple Boolean Controls.vi"/>
-				<Item Name="Value Multiple Boolean Controls.vi" Type="VI" URL="../Support/Value Multiple Boolean Controls.vi"/>
-				<Item Name="Value Multiple Numeric Controls.vi" Type="VI" URL="../Support/Value Multiple Numeric Controls.vi"/>
+				<Item Name="Enable Multiple Boolean Controls.vi" Type="VI" URL="../support/Enable Multiple Boolean Controls.vi"/>
+				<Item Name="Value Multiple Boolean Controls.vi" Type="VI" URL="../support/Value Multiple Boolean Controls.vi"/>
+				<Item Name="Value Multiple Numeric Controls.vi" Type="VI" URL="../support/Value Multiple Numeric Controls.vi"/>
 				<Item Name="main menu.rtm" Type="Document" URL="../support/main menu.rtm"/>
-				<Item Name="Global names.vi" Type="VI" URL="../Support/Global names.vi"/>
+				<Item Name="Global names.vi" Type="VI" URL="../support/Global names.vi"/>
 				<Item Name="Message test FGV.vi" Type="VI" URL="../Support/Message test FGV.vi"/>
 			</Item>
 			<Item Name="Type Definitions" Type="Folder">
-				<Item Name="UI Data.ctl" Type="VI" URL="../Support/Type Definitions/UI Data.ctl"/>
+				<Item Name="UI Data.ctl" Type="VI" URL="../support/Type Definitions/UI Data.ctl"/>
 			</Item>
 			<Item Name="Status Log FGV" Type="Folder">
-				<Item Name="Status Log.ctl" Type="VI" URL="../Support/Status Logger/Status Log.ctl"/>
-				<Item Name="Status Log FGV.vi" Type="VI" URL="../Support/Status Logger/Status Log FGV.vi"/>
+				<Item Name="Status Log.ctl" Type="VI" URL="../support/Status Logger/Status Log.ctl"/>
+				<Item Name="Status Log FGV.vi" Type="VI" URL="../support/Status Logger/Status Log FGV.vi"/>
 			</Item>
 			<Item Name="Message Queue.lvlib" Type="Library" URL="../support/Message Queue/Message Queue.lvlib"/>
 			<Item Name="Notifiers.lvlib" Type="Library" URL="../Support/Notifiers/Notifiers.lvlib"/>
